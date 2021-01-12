@@ -1,0 +1,9 @@
+name: ui
+main: first\Test
+author: PLcode
+version: 1
+api: 3.0.0
+
+commands:
+ lol:
+  description: 야간투시
